@@ -22,3 +22,4 @@ circumference = 2 * math.pi * radius
 print(f"\nFor a circle with radius {radius}:")
 print(f"Area: {area:.2f} square units")
 print(f"Circumference: {circumference:.2f} units")
+# just nothing
