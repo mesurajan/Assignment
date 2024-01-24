@@ -18,4 +18,5 @@ while number > 0:
     number //= 10
 
 
+
 print(f"The sum of digits of {user_input} is: {digit_sum}")

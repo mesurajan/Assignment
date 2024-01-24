@@ -1,0 +1,53 @@
+1.Create an empty dictionary called my_dict. Add three key-value pairs to it: 'name' with a value of 'John',
+ 'age' with a value of 25, and 'city' with a value of 'New York'.
+
+2.Write a function merge_dicts(dict1, dict2) that takes two dictionaries as arguments and returns a new
+  dictionary containing the combined key-value pairs of both dictionaries. If there are common keys, 
+  the values from the second dictionary should overwrite the values from the first dictionary.
+  Given the dictionary grades = {'Alice': 90, 'Bob': 85, 'Charlie': 92}, 
+  write a program that calculates and prints the average grade.
+
+3.Create a tuple named my_tuple with three elements: 'apple', 3.14, and 42. 
+  Write a program to print each element of the tuple on a new line.
+
+4.Write a function swap_elements(tuple_var) that takes a tuple as an argument and
+  returns a new tuple where the first and last elements are swapped.
+
+5.Given two tuples tuple1 = (1, 2, 3) and tuple2 = (4, 5, 6), write a program to 
+  concatenate these tuples into a single tuple.
+
+6.Create two sets, set1 and set2, each containing at least 5 unique integers.
+  Write a program to find and print the intersection of the two sets.
+
+7.Write a function remove_duplicates(input_list) that takes a list as an argument and
+  returns a new list with duplicates removed using a set.
+
+8.Given the sets A = {1, 2, 3, 4, 5} and B = {4, 5, 6, 7, 8}, write a program to find
+  and print the union of the sets.
+
+9.Create a nested dictionary called students with keys as student names and values as
+  dictionaries containing 'age' and 'grade' for each student. Add information for at least three students. 
+
+10.Write a function update_grade(student_dict, student_name, new_grade) that takes a dictionary of students, 
+   the name of a student, and a new grade. Update the grade of the specified student and return the modified
+   dictionary.
+ 
+11.Given a list of names, create a dictionary where the keys are names and the values are the lengths of the 
+   corresponding names.
+
+12.Create a tuple with elements 'apple', 'banana', and 'cherry'. Unpack the tuple into three variables and 
+   print them.
+
+13.Write a function concat_tuples(tuple1, tuple2) that takes two tuples as arguments and returns a new tuple
+   containing elements from both tuples.
+
+14.Given a tuple with repeated elements, write a program to count the occurrences of a specific element within
+   the tuple.
+
+15.Create two sets, set_a and set_b, each with some common and some unique elements. Write a program to 
+   find and print the symmetric difference of the two sets.
+
+16.Given three sets, set1, set2, and set3, write a program to find and print the intersection of all three sets.
+
+17.Write a function list_to_set(input_list) that takes a list as input and returns a set containing unique elements 
+   from the list.
