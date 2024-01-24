@@ -3,7 +3,7 @@ Write a program to remove duplicate elements from a list.
 """
 # SOLUTIONS--->
 
-original_list = [1, 2, 3, 2, 4, 5, 6, 1, 7, 8, 8, 9]
+original_list = ["crow", "cat", "dog", "crow", "cat"]
 
 
 unique_list = []
