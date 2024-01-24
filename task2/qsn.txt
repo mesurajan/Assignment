@@ -1,0 +1,15 @@
+1.Implement a program that iterates over a list of numbers and 
+  prints only the even ones. 
+2.Implement a program that calculates and prints the sum of digits 
+  of a given number using a while loop.
+3.Write a program that takes a number as input and prints its factorial
+  using a while loop.
+4.Create a program to generate a multiplication table in a matrix format.
+5.Implement a program that prints all prime numbers within a given range using nested loops.
+6.Write a program to print a pattern of stars in the shape of a right-angled triangle.
+7.Write a program that iterates over a list of numbers and breaks the loop when 
+  a negative number is encountered. 
+8.Create a program that uses the continue statement to skip printing even
+  numbers in a loop. 
+9.Implement a program that uses the else clause in a loop to print a message
+  only if the loop completes without hitting a break statement.
